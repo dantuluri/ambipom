@@ -25,7 +25,7 @@
     "public": false
   },
   "container": {
-    "dataSource": "storage",
+    "dataSource": "mongoDS",
     "public": true
   }
 }
